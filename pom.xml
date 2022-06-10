@@ -58,7 +58,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<filename>eureka-server</filename>
+		<finalName>eureka-server</finalName>
 	</build>
 	<repositories>
 		<repository>
